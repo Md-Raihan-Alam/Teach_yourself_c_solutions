@@ -17,11 +17,9 @@ Q-> Write a program that computes the number of seconds in a year<br/>
 
 ### 1.6
 
-Q-> Is this comment correct?<br/>
-/\* */<br/>
+Q-> Is this comment correct?Check the book<br/>
 Answer=yes<br/>
-Q-> Is this comment currect?<br/>
-/*printf("This is a test"); \*/<br/>
+Q-> Is this comment currect?Check the book<br/>
 Answer=yes<br/>
 
 ### 1.7
