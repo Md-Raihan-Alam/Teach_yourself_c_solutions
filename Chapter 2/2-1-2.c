@@ -6,7 +6,7 @@ int main(void)
     scanf("%d", &number);
     if (number % 2 == 0)
         printf("Even");
-    else
+    if (number % 2 != 0)
         printf("Odd");
     return 0;
 }

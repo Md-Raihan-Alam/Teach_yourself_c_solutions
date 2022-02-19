@@ -32,4 +32,7 @@ Q-> Write a program that asks the user for an integer and then tells the user of
 ### 2.2
 
 <br/>
-Q->Write a program that requests two number and then displays either their sum or product, depending on what the user selects.
+Q->Write a program that requests two number and then displays either their sum or product, depending on what the user selects.<br/>
+<br/>
+Q->Rewrite Exercise 2 from Section 2.1 so that it uses an else statement<br/>
+<br/>
