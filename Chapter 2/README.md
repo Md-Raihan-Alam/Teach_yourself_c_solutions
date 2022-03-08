@@ -3,8 +3,6 @@
 ### Skills check
 
 <br/>
-Check the question form book, Answers are given here or written in program<br/>
-<br/>
 Answer to Q 1-> main, This function allow use to rn this program, without it we will not be able to run this program<br/>
 <br/>
 Answer to Q 3-> By entering header file name in <> of #include<>. Example=#include"stdio.h"<br/>
@@ -26,21 +24,12 @@ Answer to Q 9-> by using return keywork<br/>
 <br/>
 Q-> Which of these expressions are true?<br/>
 Answer=a,b,d,e<br/>
-Q-> Write a program that asks the user for an integer and then tells the user of that number s even or odd.<br/>
 <br/>
 
-### 2.2
-
-<br/>
-Q->Write a program that requests two number and then displays either their sum or product, depending on what the user selects.<br/>
-<br/>
-Q->Rewrite Exercise 2 from Section 2.1 so that it uses an else statement<br/>
-<br/>
 
 ### 2.3
 
 <br/>
-Q->Write a program that either adds or subtracts two integers. First, prompt the user to choose an operation; then prompt for the two numbers and display the result.<br/>
 Q->Is this fragment correct?<br/>
 Answer=forgot the beginning { for the code of blocks<br/>
 <br/>
@@ -52,13 +41,11 @@ Q->Create a program that prints the numbers from 1 to 100.<br/>
 <br/>
 Q->Write a program that prints the numbers between 17 and 100 that can be evenly divided by 17<br/>
 <br/>
-Q->Write a program similar to the prime-nmber tester, except that it displays all the factors of a number entered by the user. For example, if the user entered 8, it would respont with 2 and 4.<br/>
-<br/>
 
 ### 2.5
 
 <br/>
-Q->Rewrite the answer to the for loop excercises in the previous section so that they use the increment or decrement operators<br/>
+Q->Rewrite the answer to the for loop exercises in the previous section so that they use the increment or decrement operators<br/>
 Answer= i=i+1->i++
 <br/>
 Q->Change all appropriate assignments in this program to increment or decrement statements.<br/>
@@ -67,10 +54,6 @@ Answer= a=a+1->a++; b=b-1->b--;<br/>
 
 ### 2.6
 
-<br/>
-Q->Write a program that outputs a table of numbers. Each line in the tabl ocntains three entries:the number, the square, and its cube. Begin with 1 and end with 10. Also, use a for loop to generate the numbers<br/>
-<br/>
-Q->Write a program that prompts the user for an integer value. Next, using a for loop, make it count down from this value to 0. displaying each number on its own line. When it reaches 0, have it sound the bell.<br/>
 <br/>
 Q->Experiment on your own with backslash codes.<br/>
 Answer=Write things in your own way<br/>
@@ -91,14 +74,6 @@ Q->On your own, experiment with the relational and logical operators<br/>
 ### Mastery
 
 <br/>
-Q->Simply make a "guess the magic number" and ask the user for to guess 10 time. output Right if guess correct. Also display the time user have tried( The question is too big to write)<br/>
-<br/>
-Q->Caluclate the total square footage of house by asking total room and room's length,width( The question is too big to write)<br/>
-<br/>
 Q->What are the increment and decrement operators and what do they do?<br/>
 Answer=Increment increase value by one and Decrement decrease value by one. The operators are->i++ ,i--<br/>
-<br/>
-Q->Create an improved addition-drill program that keeps track of the number of right and wrong answers and displays them when the program ends<br/>
-<br/>
-Q->Write a program that prints the number 1 to 100 using 5 columns. Have each number separated from the next by a tab.<br/>
 <br/>
