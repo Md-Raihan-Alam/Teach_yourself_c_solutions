@@ -15,3 +15,13 @@ Answer to Q no 6-> when i is 1 a is 1,2 when i is 4 a is 5<br/>
 <br/>
 
 ### 5.1
+
+<br/>
+Answer to Q no 1-> The loop condition is greater than array limit which will cause error<br/>
+<br/>
+
+### 5.2
+
+<br/>
+Answer to Q no 2->The length of str is smaller than the length of string it is going to copy<br/>
+<br/>
