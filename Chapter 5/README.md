@@ -25,3 +25,11 @@ Answer to Q no 1-> The loop condition is greater than array limit which will cau
 <br/>
 Answer to Q no 2->The length of str is smaller than the length of string it is going to copy<br/>
 <br/>
+
+### 5.4
+
+<br/>
+Answer to Q no 1->No, balance type should be float and parantheses are missing. And if balance type supposed to be int and values should be int<br/>
+<br/>
+Answer to Q no 2->No, the copy element is greater than the length of name so the array will overrun<br/>
+<br/>
