@@ -33,3 +33,13 @@ Answer to Q no 1->No, balance type should be float and parantheses are missing. 
 <br/>
 Answer to Q no 2->No, the copy element is greater than the length of name so the array will overrun<br/>
 <br/>
+
+### Mastery Skill Check
+
+<br/>
+Answer to Q no 1->An array is a list of variables that are all of the same type ad are accessed through a comman name<br/>
+<br/>
+Answer to Q no 2->Yes, because loop limit is more than array size<br/>
+<br/>
+Answer to Q no 4-> int items[20]={1,2,3,4,5,6,7,8,9,10};<br/>
+<br/>
