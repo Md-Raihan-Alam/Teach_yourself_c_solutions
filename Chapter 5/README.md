@@ -43,3 +43,9 @@ Answer to Q no 2->Yes, because loop limit is more than array size<br/>
 <br/>
 Answer to Q no 4-> int items[20]={1,2,3,4,5,6,7,8,9,10};<br/>
 <br/>
+
+### Mastery Skill Check
+
+<br/>
+Answer to Q no 4->getchar() takes one chracter but str is taking string, not one character<br/>
+<br/>
