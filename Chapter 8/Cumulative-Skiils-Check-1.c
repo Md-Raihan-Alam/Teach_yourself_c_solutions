@@ -2,8 +2,8 @@
 #define PLAYERSIZE 9
 int main(void)
 {
-    char player[9][100];
-    double playerBattingAverages[9];
+    char player[PLAYERSIZE][100];
+    double playerBattingAverages[PLAYERSIZE];
     printf("Enter player name and batting averages.");
     for(int i=0;i<9;i++){
         printf("\nEnter player name:");
@@ -18,12 +18,10 @@ int main(void)
     int lowestAverageId=0; 
     for(int i=0;i<9;i++){
         if(playerBattingAverages[i]>highestAverage) {
-            printf("Run\n");
             highestAverageId=i;
             highestAverage=playerBattingAverages[i];
         }
         if(playerBattingAverages[i]<lowestAverage){
-            printf("run\n");
             lowestAverageId=i;
             lowestAverage=playerBattingAverages[i];
         }
