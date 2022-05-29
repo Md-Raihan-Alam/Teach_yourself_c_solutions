@@ -1,0 +1,1 @@
+Write a program that displays the contents of this text file spicified one the command line
